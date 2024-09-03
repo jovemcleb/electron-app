@@ -1,5 +1,5 @@
 import '../src/styles/global.css';
 
 export function App(): JSX.Element {
-  return <h1 className="text-2xl text-violet-400">Hello World</h1>;
+  return <div className="h-screen w-screen text-rotion-100"></div>;
 }
